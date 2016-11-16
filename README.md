@@ -1,4 +1,4 @@
-PHP Exchange Web Services
+PHP Exchange Web Services - RobinvdA
 ===================================
 
 The PHP Exchange Web Services library (php-ews) is intended to make
