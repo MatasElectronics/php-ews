@@ -9,7 +9,7 @@
       "email": "jamesiarmes@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
     "php": ">=5.3.9",
